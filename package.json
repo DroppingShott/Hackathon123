@@ -1,0 +1,28 @@
+{
+  "name": "sapphire-quickstart",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --loader ts-node/esm rofl-agent/handler.ts",
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@oasisprotocol/sapphire-hardhat": "^2.22.2",
+    "hardhat": "^2.24.0",
+    "solc": "^0.8.28",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@oasisprotocol/sapphire-paratime": "^2.1.0",
+    "dotenv": "^16.5.0",
+    "ethers": "^6.14.0"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "address": "0x4838B106FCe9647Bdf1E7877BF73cE8B0BAD5f97",
+  "tokens": [
+    {
+      "symbol": "ETH",
+      "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "usd_value": 16031.06
+    },
+    {
+      "symbol": "USDT",
+      "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "usd_value": 38.79
+    },
+    {
+      "symbol": "USDC",
+      "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "usd_value": 16.57
+    },
+    {
+      "symbol": "PEPE",
+      "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+      "usd_value": 13.99
+    },
+    {
+      "symbol": "GNO",
+      "address": "0x6810e776880c02933d47db1b9fc05908e5386b96",
+      "usd_value": 13.33
+    }
+  ]
+}
